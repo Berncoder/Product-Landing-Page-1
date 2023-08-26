@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100px;
+  height: 50px;
+}
+#nav-bar {
+  display: inline-block;
+  position: fixed;
+  top: 0px;
+  padding-top: 30px;
+}
+a{
+  text-decoration: none;
+}
+
+h2 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+iframe{
+  padding: 35px;
+  position: relative;
+}
